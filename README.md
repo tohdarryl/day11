@@ -49,7 +49,7 @@ Go to settings and click 'Generate Domain'
 
 10. SpringBoot port config
 ```
-mvn spring-boot:run -Dspring.boot.run.arguments=--port=8085
+mvn spring-boot:run -Dspring-boot.run.arguments=--port=8085
 ```
 
 11. Setting env var port value
